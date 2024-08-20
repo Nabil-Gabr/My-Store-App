@@ -1,17 +1,28 @@
-# store_app_news
+# Store App
 
-A new Flutter project.
+The Store App is a product management application built using Flutter. In this project, I used an API developed by a backend developer.
 
-## Getting Started
+## Features
+- Display a list of products.
+- Add and update products.
+- Delete products.
 
-This project is a starting point for a Flutter application.
+## Tools and Technologies Used
+- Flutter
+- REST API
+- Object-Oriented Programming (OOP)
+- Postman for testing and executing requests (GET, POST, PUT, DELETE)
 
-A few resources to get you started if this is your first Flutter project:
+## What I Learned
+- Handling API requests with Flutter.
+- Using Postman for testing and analyzing responses.
+- Implementing OOP concepts in Flutter development.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Application Screens :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# My-Store-App
+<div>
+  <img width="130" alt="storeApp_homePage" src="https://github.com/user-attachments/assets/fbd25047-91bb-47f4-ab3f-91210fa00590">
+  <img width="130" alt="StoreApp_details_1" src="https://github.com/user-attachments/assets/3dbbb6d7-8f72-4a07-bd87-7b6eb42f7a0f">
+<img width="130" alt="storeApp-details_2" src="https://github.com/user-attachments/assets/895dc90a-18ac-41f5-8942-c899c90d4753">
+
+</div>
